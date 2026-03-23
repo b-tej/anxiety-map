@@ -1,0 +1,43 @@
+﻿Person,Relation to me,Friends,X,Y
+Nissi,Stranger,"""Connor"", ""Eileen""",87,90
+Connor,Stranger,"""Eileen""",119,91
+Eileen,Stranger,"""Nissi"", ""Ananya""",78,103
+Ananya,Opp,"""Sebastian Stan""",278,216
+Sebastian Stan,Crush,"""Ananya""",316,243
+,Friend,,408,187
+,Friend,,434,185
+,Friend,,444,207
+,Friend,,563,202
+,Friend,,595,221
+,Opp,,592,426
+,Acquaintance,,549,436
+,Crush,,602,647
+,Close Friend,,843,426
+,Close Friend,,808,436
+,Friend,,320,647
+,Stranger,,129,490
+,Acquaintance,,149,466
+,Friend,,168,491
+,Ex,,470,463
+,Acquaintance,,437,447
+,Stranger,,437,476
+,Stranger,,680,55
+,Stranger,,709,141
+,Acquaintance,,884,645
+,Stranger,,137,355
+,Acquaintance,,338,61
+,Ex,,396,61
+,Opp,,490,629
+,Opp,,476,661
+,Acquaintance,,897,86
+,Friend,,902,118
+,Friend,,1069,108
+,Opp,,1043,173
+,Opp,,988,375
+,Friend,,1039,410
+,Friend,,1060,572
+,Acquaintance,,1096,683
+,Acquaintance,,698,359
+,Friend,,502,321
+,Friend,,345,412
+,Opp,,571,103
